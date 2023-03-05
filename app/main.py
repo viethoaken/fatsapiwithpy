@@ -33,4 +33,4 @@ app.include_router(votes.router)
 
 @app.get("/")
 def root():
-    return {"message": "Hello Hoa Dong!!!!"}
+    return {"message": "Hello AWS!"}
